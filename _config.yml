@@ -67,7 +67,9 @@ kramdown:
 #include:
 #  - _redirects
 #  - _headers
-
+backend:
+  name: github
+  repo: Cbezeau/Cbezeau.github.io # Path to your GitHub repository
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
